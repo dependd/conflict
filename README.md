@@ -1,4 +1,3 @@
 # conflict
 conflic test
-* エラーしやがれ
-* しらね
+__やめなさい__
