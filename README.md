@@ -1,4 +1,4 @@
 # conflict
 conflic test
-
-* ゆるさない
+* エラーしやがれ
+* しらね
